@@ -1,0 +1,12 @@
+1. Install IntelliJ Idea Community or Ultimate
+2. Install Java
+3. Create new Java Project -> IntelliJ engine, Java 17
+4. Setup Files:
+    -> fileWriter (DIR)
+    -> codingSpace (DIR)
+    ->
+    ->
+    ->
+    ->
+5. Install Git (Optional)
+6.

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5c26e89-a931-4290-a078-92d228f83e8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/SetUp.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_1_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_1_Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_2_Comments1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_2_Comments2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_3_DataTypesPrintln1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_4DataTypesPrintln3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_4_DataTypesPrintln2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_5_AllDataTypes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/a/a_6_sout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_1_ifStatement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_1_ifStatement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_1_ifStatement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_2_ReferToOtherMethod1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_2_ReferToOtherMethod2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_2_ReferToOtherMethod3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/b/b_3_AllCombined.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/c/c_1_Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/c/c_1_Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/c/c_1_Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/c/c_1_Scanner4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/c/c_1_Scanner5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/d/d_1_Enums1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/d/d_1_Enums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/e/e_1_Interfaces1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/g/g_1_FileWriter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/g/g_1_FileWriter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/g/g_1_FileWriter3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/g/g_1_FileWriter4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/preCodedFiles/h/h_1_FlipACoin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CTHhRM90mxar3qInZHWoWcTWCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\felix\development\javaCourse\courseProjects\src\preCodedFiles\a" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.h_1_FlipACoin">
+    <configuration name="d_1_Enums1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preCodedFiles.d.d_1_Enums1" />
+      <module name="courseProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preCodedFiles.d.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g_1_FileWriter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preCodedFiles.g.g_1_FileWriter3" />
+      <module name="courseProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preCodedFiles.g.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g_1_FileWriter4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preCodedFiles.g.g_1_FileWriter4" />
+      <module name="courseProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preCodedFiles.g.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="h_1_FlipACoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preCodedFiles.h.h_1_FlipACoin" />
+      <module name="courseProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preCodedFiles.h.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="preCodedFiles.g.g_1_FileWriter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="preCodedFiles.g.g_1_FileWriter2" />
+      <module name="courseProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="preCodedFiles.g.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.h_1_FlipACoin" />
+        <item itemvalue="Application.d_1_Enums1" />
+        <item itemvalue="Application.g_1_FileWriter4" />
+        <item itemvalue="Application.g_1_FileWriter3" />
+        <item itemvalue="Application.preCodedFiles.g.g_1_FileWriter2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c26e89-a931-4290-a078-92d228f83e8f" name="Changes" comment="" />
+      <created>1658819777958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658819777958</updated>
+      <workItem from="1658819779852" duration="34945000" />
+      <workItem from="1659293231554" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
